@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.47ead50f.chunk.css",
-    "main.js": "/static/js/main.cabb3226.chunk.js",
-    "main.js.map": "/static/js/main.cabb3226.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.588b6c61.js",
-    "runtime-main.js.map": "/static/js/runtime-main.588b6c61.js.map",
-    "static/js/2.2f360fb2.chunk.js": "/static/js/2.2f360fb2.chunk.js",
-    "static/js/2.2f360fb2.chunk.js.map": "/static/js/2.2f360fb2.chunk.js.map",
-    "static/js/3.361d97a0.chunk.js": "/static/js/3.361d97a0.chunk.js",
-    "static/js/3.361d97a0.chunk.js.map": "/static/js/3.361d97a0.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.47ead50f.chunk.css.map": "/static/css/main.47ead50f.chunk.css.map",
-    "static/js/2.2f360fb2.chunk.js.LICENSE.txt": "/static/js/2.2f360fb2.chunk.js.LICENSE.txt"
+    "main.css": "/autocomplete/static/css/main.47ead50f.chunk.css",
+    "main.js": "/autocomplete/static/js/main.cabb3226.chunk.js",
+    "main.js.map": "/autocomplete/static/js/main.cabb3226.chunk.js.map",
+    "runtime-main.js": "/autocomplete/static/js/runtime-main.95effef2.js",
+    "runtime-main.js.map": "/autocomplete/static/js/runtime-main.95effef2.js.map",
+    "static/js/2.2f360fb2.chunk.js": "/autocomplete/static/js/2.2f360fb2.chunk.js",
+    "static/js/2.2f360fb2.chunk.js.map": "/autocomplete/static/js/2.2f360fb2.chunk.js.map",
+    "static/js/3.361d97a0.chunk.js": "/autocomplete/static/js/3.361d97a0.chunk.js",
+    "static/js/3.361d97a0.chunk.js.map": "/autocomplete/static/js/3.361d97a0.chunk.js.map",
+    "index.html": "/autocomplete/index.html",
+    "static/css/main.47ead50f.chunk.css.map": "/autocomplete/static/css/main.47ead50f.chunk.css.map",
+    "static/js/2.2f360fb2.chunk.js.LICENSE.txt": "/autocomplete/static/js/2.2f360fb2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.588b6c61.js",
+    "static/js/runtime-main.95effef2.js",
     "static/js/2.2f360fb2.chunk.js",
     "static/css/main.47ead50f.chunk.css",
     "static/js/main.cabb3226.chunk.js"
