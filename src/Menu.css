@@ -1,0 +1,28 @@
+.Menu {
+    background: #fff;
+    border: 1px solid #d0d0bf;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-left: 0;
+    transform: translateY(100%);
+    width: 100%;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.Menu-Option {
+    color: #000;
+    padding: 3px;
+}
+
+.Menu-Option:hover {
+    color: #fff;
+    background-color: #2267cb;
+    cursor: pointer;
+}
+
+.Menu-Option_isActive {
+    color: #fff;
+    background-color: #2267cb;
+}
