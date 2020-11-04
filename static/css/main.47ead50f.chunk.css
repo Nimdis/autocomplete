@@ -1,0 +1,2 @@
+.Menu{background:#fff;border:1px solid #d0d0bf;position:absolute;bottom:0;left:0;margin-left:0;transform:translateY(100%);width:100%;max-height:200px;overflow-y:auto}.Menu-Option{color:#000;padding:3px}.Menu-Option:hover{cursor:pointer}.Menu-Option:hover,.Menu-Option_isActive{color:#fff;background-color:#2267cb}.Autocomplete{display:flex;flex-direction:row;align-items:center}.Autocomplete-Input{margin-left:6px;position:relative}.Autocomplete-ClearButton,.Autocomplete-Label{margin-left:6px}
+/*# sourceMappingURL=main.47ead50f.chunk.css.map */
